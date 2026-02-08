@@ -1,0 +1,29 @@
+{
+    "auth" : {
+        "signup" : "/services/supabase/auth/signup",
+        "signin" : "/services/supabase/auth/signin",
+        "check_email" : "/services/supabase/auth/check_email"
+    },
+    "storage" : {
+        "uploadfile" : "/services/supabase/storage/uploadfile",
+        "retrieve" : "/services/supabase/storage/retrieve",
+        "delete" : "/services/supabase/storage/delete",
+        "download" : "/services/supabase/storage/download"
+    },
+    "admin" : {
+        "retrieve_user_assign_by" : "/services/supabase/admin/retrieve_user_assign_by",
+        "retrieve_all_user" : "/services/supabase/admin/retrieve_all_user_student",
+        "assigned" : "/services/supabase/admin/assigned",
+        "unassigned" : "/services/supabase/admin/unassigned",
+        "exam_result" : "/services/supabase/admin/exam_result"
+    },
+    "user_data" : {
+        "questionare" : "/services/api/response_to_python",
+        "retrieve_mock_exam" : "/services/supabase/user/retrieve_mock_exam",
+        "retrieve_mock_exam_reviewer" : "/services/supabase/user/retrieve_mock_exam_reviewer",
+        "exam_result" : "/services/supabase/user/exam_result",
+        "update_score" : "/services/supabase/user/update_score"
+    },
+    "python_response" : "http://127.0.0.1:10000/"
+
+}

@@ -1,0 +1,14 @@
+export { default as LogIn } from './log_in';
+export { default as SignUp } from './sign_up';
+export { default as Dashboard } from './dashboard';
+export { default as AvailableExams } from './exams';    
+export { default as About } from './about';
+export { default as PartExam } from './copy_exam';
+export { default as Admin_page } from './admin_page';
+export { default as Manage_users } from './manage_users';
+export { default as Manage_exams } from './manage_exams';
+export { default as Form } from './form';
+export { default as Add_examinee } from './add_examinee';
+export { default as ExamResult } from "./exam_result";
+export { default as ResultTest } from "./result_test";
+export { default as Reviewer } from "./reviewer";
