@@ -1,0 +1,617 @@
+[00:00:03.803] Server  LOG      ✓ Ready in 2.5s
+[00:00:06.952] Server  LOG      ○ Compiling /add_examinee ...
+[00:00:10.742] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:12.287] Server  LOG      ==> User Authenticated
+[00:00:12.400] Browser LOG     Status for fetch:  {"message":{"data":[{"email":"christian@lccbonline.edu.ph","id":2,"name":"Christian"}],"exp":1770909603,"iat":1770906003},"success":true}
+[00:00:13.743] Server  LOG     []
+[00:00:13.756] Server  LOG     []
+[00:00:13.865] Browser LOG     Status for fetch:  {"message":[],"success":true}
+[00:00:13.867] Browser LOG     Status for fetch:  {"message":[],"success":true}
+[00:01:49.686] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:01:49.734] Server  LOG      ==> User Authenticated
+[00:01:49.899] Browser LOG     Status for fetch:  {"message":{"data":[{"email":"christian@lccbonline.edu.ph","id":2,"name":"Christian"}],"exp":1770909603,"iat":1770906003},"success":true}
+[00:01:50.856] Server  LOG     [{...},{...},{...},{...}]
+[00:01:50.978] Browser LOG     Status for fetch:  {"message":[],"success":true}
+[00:01:51.287] Server  LOG     [{...},{...},{...},{...}]
+[00:01:51.402] Browser LOG     Status for fetch:  {"message":[],"success":true}
+[00:04:39.719] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:04:39.842] Server  LOG      ==> User Authenticated
+[00:04:39.982] Browser LOG     Status for fetch:  {"message":{"data":[{"email":"christian@lccbonline.edu.ph","id":2,"name":"Christian"}],"exp":1770909603,"iat":1770906003},"success":true}
+[00:04:40.831] Server  ERROR   Supabase Query Error:  {}
+[00:04:40.842] Server  ERROR   Supabase Query Error:  {}
+[00:04:40.958] Browser LOG     Something went wrong
+[00:04:40.958] Browser LOG     Something went wrong
+[00:11:56.924] Server  LOG        Reload env: .env
+[00:12:25.907] Server  LOG        Reload env: .env
+[00:12:47.801] Server  LOG        Reload env: .env
+[00:13:16.629] Server  LOG        Reload env: .env
+[00:13:28.396] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:13:28.647] Server  LOG      ==> User Authenticated
+[00:13:28.834] Browser LOG     Status for fetch:  {"message":{"data":[{"email":"christian@lccbonline.edu.ph","id":2,"name":"Christian"}],"exp":1770909603,"iat":1770906003},"success":true}
+[00:13:29.888] Server  LOG     [{...}]
+[00:13:29.904] Server  LOG     [{...}]
+[00:13:30.025] Browser LOG     Status for fetch:  {"message":[{"assign_by":null}],"success":true}
+[00:13:30.025] Browser LOG     Status for fetch:  {"message":[{"assign_by":null}],"success":true}
+[00:15:05.446] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:15:05.587] Server  LOG      ==> User Authenticated
+[00:15:05.805] Browser LOG     Status for fetch:  {"message":{"data":[{"email":"christian@lccbonline.edu.ph","id":2,"name":"Christian"}],"exp":1770909603,"iat":1770906003},"success":true}
+[00:15:06.699] Browser LOG     Status for fetch:  {"message":[{"assign_by":null,"created_at":"2026-02-08T19:04:12.894306","email":"martirjulian12@lccbonline.edu.ph","name":"Julian Martir","password":"$2b$10$CFAJl9DBjwWHXVnaD1BQ9ejRKUuQaUiO7bYlHNhjZu6k./UlE0VIG","role":"student","user_id":3,"username":"Julian Martir"}],"success":true}
+[00:15:07.516] Browser LOG     Status for fetch:  {"message":[{"assign_by":null,"created_at":"2026-02-08T19:04:12.894306","email":"martirjulian12@lccbonline.edu.ph","name":"Julian Martir","password":"$2b$10$CFAJl9DBjwWHXVnaD1BQ9ejRKUuQaUiO7bYlHNhjZu6k./UlE0VIG","role":"student","user_id":3,"username":"Julian Martir"}],"success":true}
+[00:15:13.312] Browser LOG     Some requirements is conflicted
+[00:15:15.062] Browser LOG     Some requirements is conflicted
+[00:15:15.300] Browser LOG     Some requirements is conflicted
+[00:15:18.198] Browser LOG     Some requirements is conflicted
+[00:15:18.372] Browser LOG     Some requirements is conflicted
+[00:15:18.592] Browser LOG     Some requirements is conflicted
+[00:15:18.786] Browser LOG     Some requirements is conflicted
+[00:15:18.999] Browser LOG     Some requirements is conflicted
+[00:15:19.194] Browser LOG     Some requirements is conflicted
+[00:15:19.425] Browser LOG     Some requirements is conflicted
+[00:15:19.727] Browser LOG     Some requirements is conflicted
+[00:15:20.056] Browser LOG     Some requirements is conflicted
+[00:15:20.304] Browser LOG     Some requirements is conflicted
+[00:15:20.682] Browser LOG     Some requirements is conflicted
+[00:15:20.871] Browser LOG     Some requirements is conflicted
+[00:15:21.103] Browser LOG     Some requirements is conflicted
+[00:15:21.297] Browser LOG     Some requirements is conflicted
+[00:15:22.596] Browser LOG     Some requirements is conflicted
+[00:15:22.798] Browser LOG     Some requirements is conflicted
+[00:15:22.997] Browser LOG     Some requirements is conflicted
+[00:15:23.222] Browser LOG     Some requirements is conflicted
+[00:15:42.969] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:15:43.045] Server  LOG      ==> User Authenticated
+[00:15:43.150] Browser LOG     Status for fetch:  {"message":{"data":[{"email":"christian@lccbonline.edu.ph","id":2,"name":"Christian"}],"exp":1770909603,"iat":1770906003},"success":true}
+[00:15:44.274] Browser LOG     Status for fetch:  {"message":[{"assign_by":null,"created_at":"2026-02-08T19:04:12.894306","email":"martirjulian12@lccbonline.edu.ph","name":"Julian Martir","password":"$2b$10$CFAJl9DBjwWHXVnaD1BQ9ejRKUuQaUiO7bYlHNhjZu6k./UlE0VIG","role":"student","user_id":3,"username":"Julian Martir"}],"success":true}
+[00:15:44.385] Browser LOG     Status for fetch:  {"message":[{"assign_by":null,"created_at":"2026-02-08T19:04:12.894306","email":"martirjulian12@lccbonline.edu.ph","name":"Julian Martir","password":"$2b$10$CFAJl9DBjwWHXVnaD1BQ9ejRKUuQaUiO7bYlHNhjZu6k./UlE0VIG","role":"student","user_id":3,"username":"Julian Martir"}],"success":true}
+[00:16:09.284] Browser LOG     Some requirements is conflicted
+[00:16:11.994] Browser LOG     Some requirements is conflicted
+[00:16:12.178] Browser LOG     Some requirements is conflicted
+[00:16:12.371] Browser LOG     Some requirements is conflicted
+[00:16:12.575] Browser LOG     Some requirements is conflicted
+[00:21:43.217] Server  LOG      ✓ Compiled in 179ms
+[00:21:45.719] Server  LOG      ✓ Compiled in 23ms
+[00:21:50.935] Server  LOG      ✓ Compiled in 79ms
+[00:21:57.811] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:21:57.949] Server  LOG      ==> User Authenticated
+[00:21:58.057] Browser LOG     Status for fetch:  {"message":{"data":[{"email":"christian@lccbonline.edu.ph","id":2,"name":"Christian"}],"exp":1770909603,"iat":1770906003},"success":true}
+[00:21:58.626] Browser LOG     Status for fetch:  {"message":[{"assign_by":null,"created_at":"2026-02-08T19:04:12.894306","email":"martirjulian12@lccbonline.edu.ph","name":"Julian Martir","password":"$2b$10$CFAJl9DBjwWHXVnaD1BQ9ejRKUuQaUiO7bYlHNhjZu6k./UlE0VIG","role":"student","user_id":3,"username":"Julian Martir"}],"success":true}
+[00:21:58.626] Browser LOG     Status for fetch:  {"message":[{"assign_by":null,"created_at":"2026-02-08T19:04:12.894306","email":"martirjulian12@lccbonline.edu.ph","name":"Julian Martir","password":"$2b$10$CFAJl9DBjwWHXVnaD1BQ9ejRKUuQaUiO7bYlHNhjZu6k./UlE0VIG","role":"student","user_id":3,"username":"Julian Martir"}],"success":true}
+[00:22:00.491] Server  ERROR   Supabase Query Error:  {}
+[00:22:00.607] Browser LOG     Something went wrong
+[00:22:02.547] Server  ERROR   Supabase Query Error:  {}
+[00:22:02.650] Server  ERROR   Supabase Query Error:  {}
+[00:22:02.658] Browser LOG     Something went wrong
+[00:22:02.758] Browser LOG     Something went wrong
+[00:22:03.691] Server  ERROR   Supabase Query Error:  {}
+[00:22:03.802] Browser LOG     Something went wrong
+[00:22:08.092] Server  ERROR   Supabase Query Error:  {}
+[00:22:08.207] Browser LOG     Something went wrong
+[00:22:08.373] Server  ERROR   Supabase Query Error:  {}
+[00:22:08.489] Browser LOG     Something went wrong
+[00:22:08.814] Server  ERROR   Supabase Query Error:  {}
+[00:22:08.828] Server  ERROR   Supabase Query Error:  {}
+[00:22:08.944] Browser LOG     Something went wrong
+[00:22:08.944] Browser LOG     Something went wrong
+[00:23:42.490] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:23:42.619] Server  LOG      ==> User Authenticated
+[00:23:42.724] Browser LOG     Status for fetch:  {"message":{"data":[{"email":"christian@lccbonline.edu.ph","id":2,"name":"Christian"}],"exp":1770909603,"iat":1770906003},"success":true}
+[00:23:43.016] Browser LOG     Status for fetch:  {"message":[{"assign_by":null,"created_at":"2026-02-08T19:04:12.894306","email":"martirjulian12@lccbonline.edu.ph","name":"Julian Martir","password":"$2b$10$CFAJl9DBjwWHXVnaD1BQ9ejRKUuQaUiO7bYlHNhjZu6k./UlE0VIG","role":"student","status":null,"user_id":3,"username":"Julian Martir"}],"success":true}
+[00:23:43.240] Browser LOG     Status for fetch:  {"message":[{"assign_by":null,"created_at":"2026-02-08T19:04:12.894306","email":"martirjulian12@lccbonline.edu.ph","name":"Julian Martir","password":"$2b$10$CFAJl9DBjwWHXVnaD1BQ9ejRKUuQaUiO7bYlHNhjZu6k./UlE0VIG","role":"student","status":null,"user_id":3,"username":"Julian Martir"}],"success":true}
+[00:23:44.523] Server  ERROR   Supabase Query Error:  {}
+[00:23:44.641] Browser LOG     Something went wrong
+[00:23:45.808] Server  ERROR   Supabase Query Error:  {}
+[00:23:45.914] Browser LOG     Something went wrong
+[00:23:45.971] Server  ERROR   Supabase Query Error:  {}
+[00:23:46.088] Browser LOG     Something went wrong
+[00:23:46.144] Server  ERROR   Supabase Query Error:  {}
+[00:23:46.249] Browser LOG     Something went wrong
+[00:23:46.388] Server  ERROR   Supabase Query Error:  {}
+[00:23:46.494] Browser LOG     Something went wrong
+[00:23:46.828] Server  ERROR   Supabase Query Error:  {}
+[00:23:46.936] Browser LOG     Something went wrong
+[00:23:47.516] Server  ERROR   Supabase Query Error:  {}
+[00:23:47.626] Browser LOG     Something went wrong
+[00:23:47.980] Server  ERROR   Supabase Query Error:  {}
+[00:23:47.993] Server  ERROR   Supabase Query Error:  {}
+[00:23:48.099] Browser LOG     Something went wrong
+[00:23:48.099] Browser LOG     Something went wrong
+[00:23:48.173] Server  ERROR   Supabase Query Error:  {}
+[00:23:48.289] Browser LOG     Something went wrong
+[00:23:48.313] Server  ERROR   Supabase Query Error:  {}
+[00:23:48.430] Browser LOG     Something went wrong
+[00:25:45.794] Server  LOG      ==> User Trying To Login
+[00:25:45.795] Server  LOG     Data Info:  []
+[00:25:52.691] Browser LOG     User not found
+[00:26:29.270] Server  LOG      ==> User trying to create new accounts
+[00:26:29.390] Browser LOG     Status for fetch:  {"success":true}
+[00:26:29.801] Server  LOG      ==> User Successfully Created an Account  null
+[00:26:29.927] Browser LOG     Status for fetch:  {"success":true}
+[00:27:21.041] Server  LOG      ==> User trying to create new accounts
+[00:27:21.993] Browser LOG     Status for fetch:  {"success":true}
+[00:27:21.993] Browser LOG     Password is not match
+[00:27:34.026] Server  LOG      ==> User trying to create new accounts
+[00:27:35.505] Browser LOG     Status for fetch:  {"success":true}
+[00:27:35.505] Browser LOG     Password is not match
+[00:27:44.628] Server  LOG      ==> User trying to create new accounts
+[00:27:44.735] Browser LOG     Status for fetch:  {"success":true}
+[00:27:44.994] Server  LOG      ==> User Successfully Created an Account  null
+[00:27:45.099] Browser LOG     Status for fetch:  {"success":true}
+[00:27:55.572] Server  LOG      ==> User Trying To Login
+[00:27:55.583] Server  LOG     Data Info:  [{...}]
+[00:27:55.870] Browser LOG     Status for fetch:  {"message":[{"email":"christian@lccbonline.edu.ph","password":"$2b$10$iTqFQupFM.mjJs4qK1EEl.k1plwBJSZ6KGu.nEekq/F3EspsGY5PK","role":"admin"}],"success":true}
+[00:27:56.356] Server  ERROR   Supabase Query Error:  {}
+[00:27:56.465] Browser LOG     Something went wrong
+[00:27:56.465] Browser LOG     {"message":[{"email":"christian@lccbonline.edu.ph","password":"$2b$10$iTqFQupFM.mjJs4qK1EEl.k1plwBJSZ6KGu.nEekq/F3EspsGY5PK","role":"admin"}],"success":true}
+[00:27:57.492] Server  LOG      ==> User Authenticated
+[00:27:57.612] Browser LOG     Status for fetch:  {"message":{"data":[{"email":"christian@lccbonline.edu.ph","id":2,"name":"Christian"}],"exp":1770909603,"iat":1770906003},"success":true}
+[00:27:58.114] Browser LOG     Email not found
+[00:27:58.114] Browser LOG     Email not found
+[00:27:58.114] Browser LOG     Email not found
+[00:27:58.114] Browser LOG     Email not found
+[00:27:58.114] Browser LOG     Email not found
+[00:27:58.114] Browser LOG     Email not found
+[00:27:58.115] Server  LOG      ==> User Authenticated
+[00:27:58.221] Browser LOG     Status for fetch:  {"message":{"data":[{"email":"christian@lccbonline.edu.ph","id":2,"name":"Christian"}],"exp":1770909603,"iat":1770906003},"success":true}
+[00:27:58.323] Browser LOG     Status for fetch:  {"message":[],"success":true}
+[00:27:58.779] Server  ERROR   Supabase Query Error:  {}
+[00:27:58.787] Server  ERROR   Supabase Query Error:  {}
+[00:27:58.893] Browser LOG     Something went wrong
+[00:27:58.893] Browser LOG     Something went wrong
+[00:28:02.631] Server  LOG      ==> User Authenticated
+[00:28:02.665] Server  LOG      ==> User Authenticated
+[00:28:02.774] Browser LOG     Status for fetch:  {"message":{"data":[{"email":"christian@lccbonline.edu.ph","id":2,"name":"Christian"}],"exp":1770909603,"iat":1770906003},"success":true}
+[00:28:02.774] Browser LOG     Status for fetch:  {"message":{"data":[{"email":"christian@lccbonline.edu.ph","id":2,"name":"Christian"}],"exp":1770909603,"iat":1770906003},"success":true}
+[00:28:02.974] Browser LOG     Status for fetch:  {"message":[],"success":true}
+[00:28:02.974] Browser LOG     Status for fetch:  {"message":[],"success":true}
+[00:28:07.093] Server  LOG      ==> User Authenticated
+[00:28:07.109] Server  LOG      ==> User Authenticated
+[00:28:07.220] Browser LOG     Status for fetch:  {"message":{"data":[{"email":"christian@lccbonline.edu.ph","id":2,"name":"Christian"}],"exp":1770909603,"iat":1770906003},"success":true}
+[00:28:07.220] Browser LOG     Status for fetch:  {"message":{"data":[{"email":"christian@lccbonline.edu.ph","id":2,"name":"Christian"}],"exp":1770909603,"iat":1770906003},"success":true}
+[00:28:07.527] Browser LOG     Status for fetch:  {"message":[{"assign_by":null,"created_at":"2026-02-12T14:53:31.475266","email":"angel@lccbonline.edu.ph","name":"Angel","password":"$2b$10$Yksuse/MC2NKt6AJ0tPVhuYNLR0zrlzqv3LbMy3OqUkDjsj94UKmq","role":"student","status":null,"user_id":6,"username":"Angel"}],"success":true}
+[00:28:07.527] Browser LOG     Status for fetch:  {"message":[{"assign_by":null,"created_at":"2026-02-12T14:53:31.475266","email":"angel@lccbonline.edu.ph","name":"Angel","password":"$2b$10$Yksuse/MC2NKt6AJ0tPVhuYNLR0zrlzqv3LbMy3OqUkDjsj94UKmq","role":"student","status":null,"user_id":6,"username":"Angel"}],"success":true}
+[00:28:10.885] Server  ERROR   Supabase Query Error:  {}
+[00:28:10.992] Browser LOG     Something went wrong
+[00:28:13.447] Server  ERROR   Supabase Query Error:  {}
+[00:28:13.565] Browser LOG     Something went wrong
+[00:28:13.650] Server  ERROR   Supabase Query Error:  {}
+[00:28:13.768] Browser LOG     Something went wrong
+[00:28:13.813] Server  ERROR   Supabase Query Error:  {}
+[00:28:13.929] Browser LOG     Something went wrong
+[00:28:14.000] Server  ERROR   Supabase Query Error:  {}
+[00:28:14.117] Browser LOG     Something went wrong
+[00:28:14.753] Server  ERROR   Supabase Query Error:  {}
+[00:28:14.860] Browser LOG     Something went wrong
+[00:28:15.008] Server  ERROR   Supabase Query Error:  {}
+[00:28:15.115] Browser LOG     Something went wrong
+[00:28:15.683] Server  ERROR   Supabase Query Error:  {}
+[00:28:15.789] Browser LOG     Something went wrong
+[00:28:15.815] Server  ERROR   Supabase Query Error:  {}
+[00:28:15.930] Browser LOG     Something went wrong
+[00:28:16.256] Server  ERROR   Supabase Query Error:  {}
+[00:28:16.369] Browser LOG     Something went wrong
+[00:30:44.951] Server  LOG      ✓ Compiled in 83ms
+[00:30:52.035] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:30:52.102] Server  LOG      ==> User Authenticated
+[00:30:52.210] Browser LOG     Status for fetch:  {"message":{"data":[{"email":"christian@lccbonline.edu.ph","id":2,"name":"Christian"}],"exp":1770909603,"iat":1770906003},"success":true}
+[00:30:52.689] Browser LOG     Status for fetch:  {"message":[{"assign_by":null,"created_at":"2026-02-12T14:53:31.475266","email":"angel@lccbonline.edu.ph","id":6,"name":"Angel","password":"$2b$10$Yksuse/MC2NKt6AJ0tPVhuYNLR0zrlzqv3LbMy3OqUkDjsj94UKmq","role":"student","status":null,"username":"Angel"}],"success":true}
+[00:30:52.689] Browser LOG     Status for fetch:  {"message":[{"assign_by":null,"created_at":"2026-02-12T14:53:31.475266","email":"angel@lccbonline.edu.ph","id":6,"name":"Angel","password":"$2b$10$Yksuse/MC2NKt6AJ0tPVhuYNLR0zrlzqv3LbMy3OqUkDjsj94UKmq","role":"student","status":null,"username":"Angel"}],"success":true}
+[00:30:58.108] Browser LOG     Status for fetch:  {"success":true}
+[00:30:58.582] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:30:58.666] Server  LOG      ==> User Authenticated
+[00:30:58.781] Browser LOG     Status for fetch:  {"message":{"data":[{"email":"christian@lccbonline.edu.ph","id":2,"name":"Christian"}],"exp":1770909603,"iat":1770906003},"success":true}
+[00:30:59.017] Browser LOG     Status for fetch:  {"message":[],"success":true}
+[00:30:59.018] Browser LOG     Status for fetch:  {"message":[],"success":true}
+[00:31:01.917] Server  LOG      ==> User Authenticated
+[00:31:01.932] Server  LOG      ==> User Authenticated
+[00:31:02.045] Browser LOG     Status for fetch:  {"message":{"data":[{"email":"christian@lccbonline.edu.ph","id":2,"name":"Christian"}],"exp":1770909603,"iat":1770906003},"success":true}
+[00:31:02.045] Browser LOG     Status for fetch:  {"message":{"data":[{"email":"christian@lccbonline.edu.ph","id":2,"name":"Christian"}],"exp":1770909603,"iat":1770906003},"success":true}
+[00:31:02.240] Browser LOG     Status for fetch:  {"message":[{"assign_by":"christian@lccbonline.edu.ph","created_at":"2026-02-12T14:53:31.475266","email":"angel@lccbonline.edu.ph","id":6,"name":"Angel","password":"$2b$10$Yksuse/MC2NKt6AJ0tPVhuYNLR0zrlzqv3LbMy3OqUkDjsj94UKmq","role":"student","status":"queu","username":"Angel"}],"success":true}
+[00:31:02.240] Browser LOG     Status for fetch:  {"message":[{"assign_by":"christian@lccbonline.edu.ph","created_at":"2026-02-12T14:53:31.475266","email":"angel@lccbonline.edu.ph","id":6,"name":"Angel","password":"$2b$10$Yksuse/MC2NKt6AJ0tPVhuYNLR0zrlzqv3LbMy3OqUkDjsj94UKmq","role":"student","status":"queu","username":"Angel"}],"success":true}
+[00:31:46.890] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:31:47.041] Server  LOG      ==> User Authenticated
+[00:31:47.146] Browser LOG     Status for fetch:  {"message":{"data":[{"email":"christian@lccbonline.edu.ph","id":2,"name":"Christian"}],"exp":1770909603,"iat":1770906003},"success":true}
+[00:31:47.444] Browser LOG     Status for fetch:  {"message":[{"assign_by":"christian@lccbonline.edu.ph","created_at":"2026-02-12T14:53:31.475266","email":"angel@lccbonline.edu.ph","id":6,"name":"Angel","password":"$2b$10$Yksuse/MC2NKt6AJ0tPVhuYNLR0zrlzqv3LbMy3OqUkDjsj94UKmq","role":"student","status":"queu","username":"Angel"}],"success":true}
+[00:31:47.444] Browser LOG     Status for fetch:  {"message":[{"assign_by":"christian@lccbonline.edu.ph","created_at":"2026-02-12T14:53:31.475266","email":"angel@lccbonline.edu.ph","id":6,"name":"Angel","password":"$2b$10$Yksuse/MC2NKt6AJ0tPVhuYNLR0zrlzqv3LbMy3OqUkDjsj94UKmq","role":"student","status":"queu","username":"Angel"}],"success":true}
+[00:31:54.695] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:31:54.840] Server  LOG      ==> User Authenticated
+[00:31:54.943] Browser LOG     Status for fetch:  {"message":{"data":[{"email":"christian@lccbonline.edu.ph","id":2,"name":"Christian"}],"exp":1770909603,"iat":1770906003},"success":true}
+[00:31:55.240] Browser LOG     Status for fetch:  {"message":[{"assign_by":"christian@lccbonline.edu.ph","created_at":"2026-02-12T14:53:31.475266","email":"angel@lccbonline.edu.ph","id":6,"name":"Angel","password":"$2b$10$Yksuse/MC2NKt6AJ0tPVhuYNLR0zrlzqv3LbMy3OqUkDjsj94UKmq","role":"student","status":"queu","username":"Angel"}],"success":true}
+[00:31:55.240] Browser LOG     Status for fetch:  {"message":[{"assign_by":"christian@lccbonline.edu.ph","created_at":"2026-02-12T14:53:31.475266","email":"angel@lccbonline.edu.ph","id":6,"name":"Angel","password":"$2b$10$Yksuse/MC2NKt6AJ0tPVhuYNLR0zrlzqv3LbMy3OqUkDjsj94UKmq","role":"student","status":"queu","username":"Angel"}],"success":true}
+[00:31:56.743] Server  LOG      ==> User Authenticated
+[00:31:56.751] Server  LOG      ==> User Authenticated
+[00:31:56.861] Browser LOG     Status for fetch:  {"message":{"data":[{"email":"christian@lccbonline.edu.ph","id":2,"name":"Christian"}],"exp":1770909603,"iat":1770906003},"success":true}
+[00:31:56.861] Browser LOG     Status for fetch:  {"message":{"data":[{"email":"christian@lccbonline.edu.ph","id":2,"name":"Christian"}],"exp":1770909603,"iat":1770906003},"success":true}
+[00:31:57.035] Browser LOG     Status for fetch:  {"message":[],"success":true}
+[00:31:57.035] Browser LOG     Status for fetch:  {"message":[],"success":true}
+[00:31:57.973] Server  LOG      ==> User Authenticated
+[00:31:57.977] Server  LOG      ==> User Authenticated
+[00:31:58.090] Browser LOG     Status for fetch:  {"message":{"data":[{"email":"christian@lccbonline.edu.ph","id":2,"name":"Christian"}],"exp":1770909603,"iat":1770906003},"success":true}
+[00:31:58.091] Browser LOG     Status for fetch:  {"message":{"data":[{"email":"christian@lccbonline.edu.ph","id":2,"name":"Christian"}],"exp":1770909603,"iat":1770906003},"success":true}
+[00:31:58.279] Browser LOG     Status for fetch:  {"message":[{"assign_by":"christian@lccbonline.edu.ph","created_at":"2026-02-12T14:53:31.475266","email":"angel@lccbonline.edu.ph","id":6,"name":"Angel","password":"$2b$10$Yksuse/MC2NKt6AJ0tPVhuYNLR0zrlzqv3LbMy3OqUkDjsj94UKmq","role":"student","status":"queu","username":"Angel"}],"success":true}
+[00:31:58.279] Browser LOG     Status for fetch:  {"message":[{"assign_by":"christian@lccbonline.edu.ph","created_at":"2026-02-12T14:53:31.475266","email":"angel@lccbonline.edu.ph","id":6,"name":"Angel","password":"$2b$10$Yksuse/MC2NKt6AJ0tPVhuYNLR0zrlzqv3LbMy3OqUkDjsj94UKmq","role":"student","status":"queu","username":"Angel"}],"success":true}
+[00:33:34.901] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:33:35.036] Server  LOG      ==> User Authenticated
+[00:33:35.142] Browser LOG     Status for fetch:  {"message":{"data":[{"email":"christian@lccbonline.edu.ph","id":2,"name":"Christian"}],"exp":1770909603,"iat":1770906003},"success":true}
+[00:33:35.782] Browser LOG     Status for fetch:  {"message":[{"assign_by":"christian@lccbonline.edu.ph","created_at":"2026-02-12T14:53:31.475266","email":"angel@lccbonline.edu.ph","id":6,"name":"Angel","password":"$2b$10$Yksuse/MC2NKt6AJ0tPVhuYNLR0zrlzqv3LbMy3OqUkDjsj94UKmq","role":"student","status":"queu","username":"Angel"}],"success":true}
+[00:33:35.782] Browser LOG     Status for fetch:  {"message":[{"assign_by":"christian@lccbonline.edu.ph","created_at":"2026-02-12T14:53:31.475266","email":"angel@lccbonline.edu.ph","id":6,"name":"Angel","password":"$2b$10$Yksuse/MC2NKt6AJ0tPVhuYNLR0zrlzqv3LbMy3OqUkDjsj94UKmq","role":"student","status":"queu","username":"Angel"}],"success":true}
+[00:35:09.551] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:35:09.711] Server  LOG      ==> User Authenticated
+[00:35:09.825] Browser LOG     Status for fetch:  {"message":{"data":[{"email":"christian@lccbonline.edu.ph","id":2,"name":"Christian"}],"exp":1770909603,"iat":1770906003},"success":true}
+[00:35:10.090] Browser LOG     Status for fetch:  {"message":[{"assign_by":"christian@lccbonline.edu.ph","created_at":"2026-02-12T14:53:31.475266","email":"angel@lccbonline.edu.ph","id":6,"name":"Angel","password":"$2b$10$Yksuse/MC2NKt6AJ0tPVhuYNLR0zrlzqv3LbMy3OqUkDjsj94UKmq","role":"student","status":"queu","username":"Angel"}],"success":true}
+[00:35:11.154] Browser LOG     Status for fetch:  {"message":[{"assign_by":"christian@lccbonline.edu.ph","created_at":"2026-02-12T14:53:31.475266","email":"angel@lccbonline.edu.ph","id":6,"name":"Angel","password":"$2b$10$Yksuse/MC2NKt6AJ0tPVhuYNLR0zrlzqv3LbMy3OqUkDjsj94UKmq","role":"student","status":"queu","username":"Angel"}],"success":true}
+[00:35:13.027] Browser LOG     Status for fetch:  {"success":true}
+[00:35:13.509] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:35:13.663] Server  LOG      ==> User Authenticated
+[00:35:13.770] Browser LOG     Status for fetch:  {"message":{"data":[{"email":"christian@lccbonline.edu.ph","id":2,"name":"Christian"}],"exp":1770909603,"iat":1770906003},"success":true}
+[00:35:14.000] Browser LOG     Status for fetch:  {"message":[],"success":true}
+[00:35:14.000] Browser LOG     Status for fetch:  {"message":[],"success":true}
+[00:35:15.118] Server  LOG      ==> User Authenticated
+[00:35:15.123] Server  LOG      ==> User Authenticated
+[00:35:15.251] Browser LOG     Status for fetch:  {"message":{"data":[{"email":"christian@lccbonline.edu.ph","id":2,"name":"Christian"}],"exp":1770909603,"iat":1770906003},"success":true}
+[00:35:15.251] Browser LOG     Status for fetch:  {"message":{"data":[{"email":"christian@lccbonline.edu.ph","id":2,"name":"Christian"}],"exp":1770909603,"iat":1770906003},"success":true}
+[00:35:15.451] Browser LOG     Status for fetch:  {"message":[{"assign_by":null,"created_at":"2026-02-12T14:53:31.475266","email":"angel@lccbonline.edu.ph","id":6,"name":"Angel","password":"$2b$10$Yksuse/MC2NKt6AJ0tPVhuYNLR0zrlzqv3LbMy3OqUkDjsj94UKmq","role":"student","status":"queu","username":"Angel"}],"success":true}
+[00:35:15.451] Browser LOG     Status for fetch:  {"message":[{"assign_by":null,"created_at":"2026-02-12T14:53:31.475266","email":"angel@lccbonline.edu.ph","id":6,"name":"Angel","password":"$2b$10$Yksuse/MC2NKt6AJ0tPVhuYNLR0zrlzqv3LbMy3OqUkDjsj94UKmq","role":"student","status":"queu","username":"Angel"}],"success":true}
+[00:35:17.859] Browser LOG     Status for fetch:  {"success":true}
+[00:35:18.281] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:35:18.432] Server  LOG      ==> User Authenticated
+[00:35:18.541] Browser LOG     Status for fetch:  {"message":{"data":[{"email":"christian@lccbonline.edu.ph","id":2,"name":"Christian"}],"exp":1770909603,"iat":1770906003},"success":true}
+[00:35:18.763] Browser LOG     Status for fetch:  {"message":[],"success":true}
+[00:35:18.763] Browser LOG     Status for fetch:  {"message":[],"success":true}
+[00:35:22.711] Server  LOG      ==> User Authenticated
+[00:35:22.715] Server  LOG      ==> User Authenticated
+[00:35:22.840] Browser LOG     Status for fetch:  {"message":{"data":[{"email":"christian@lccbonline.edu.ph","id":2,"name":"Christian"}],"exp":1770909603,"iat":1770906003},"success":true}
+[00:35:22.840] Browser LOG     Status for fetch:  {"message":{"data":[{"email":"christian@lccbonline.edu.ph","id":2,"name":"Christian"}],"exp":1770909603,"iat":1770906003},"success":true}
+[00:35:23.110] Browser LOG     Status for fetch:  {"message":[{"assign_by":"christian@lccbonline.edu.ph","created_at":"2026-02-12T14:53:31.475266","email":"angel@lccbonline.edu.ph","id":6,"name":"Angel","password":"$2b$10$Yksuse/MC2NKt6AJ0tPVhuYNLR0zrlzqv3LbMy3OqUkDjsj94UKmq","role":"student","status":"pending","username":"Angel"}],"success":true}
+[00:35:23.408] Browser LOG     Status for fetch:  {"message":[{"assign_by":"christian@lccbonline.edu.ph","created_at":"2026-02-12T14:53:31.475266","email":"angel@lccbonline.edu.ph","id":6,"name":"Angel","password":"$2b$10$Yksuse/MC2NKt6AJ0tPVhuYNLR0zrlzqv3LbMy3OqUkDjsj94UKmq","role":"student","status":"pending","username":"Angel"}],"success":true}
+[00:35:50.519] Server  LOG      ==> User Authenticated
+[00:35:50.567] Server  LOG      ==> User Authenticated
+[00:35:50.680] Browser LOG     Email not found
+[00:35:50.680] Browser LOG     Status for fetch:  {"message":{"data":[{"email":"christian@lccbonline.edu.ph","id":2,"name":"Christian"}],"exp":1770909603,"iat":1770906003},"success":true}
+[00:35:50.680] Browser LOG     Email not found
+[00:35:50.680] Browser LOG     Status for fetch:  {"message":{"data":[{"email":"christian@lccbonline.edu.ph","id":2,"name":"Christian"}],"exp":1770909603,"iat":1770906003},"success":true}
+[00:35:50.902] Server  ERROR   Supabase Query Error:  {}
+[00:35:51.022] Browser LOG     Something went wrong
+[00:36:02.963] Server  LOG      ==> User Authenticated
+[00:36:02.967] Server  LOG      ==> User Authenticated
+[00:36:03.077] Browser LOG     Status for fetch:  {"message":{"data":[{"email":"christian@lccbonline.edu.ph","id":2,"name":"Christian"}],"exp":1770909603,"iat":1770906003},"success":true}
+[00:36:03.077] Browser LOG     Status for fetch:  {"message":{"data":[{"email":"christian@lccbonline.edu.ph","id":2,"name":"Christian"}],"exp":1770909603,"iat":1770906003},"success":true}
+[00:36:17.195] Server  LOG      ==> User Authenticated
+[00:36:17.207] Server  LOG      ==> User Authenticated
+[00:36:17.312] Browser LOG     Email not found
+[00:36:17.312] Browser LOG     Email not found
+[00:36:17.312] Browser LOG     Status for fetch:  {"message":{"data":[{"email":"christian@lccbonline.edu.ph","id":2,"name":"Christian"}],"exp":1770909603,"iat":1770906003},"success":true}
+[00:36:17.312] Browser LOG     Status for fetch:  {"message":{"data":[{"email":"christian@lccbonline.edu.ph","id":2,"name":"Christian"}],"exp":1770909603,"iat":1770906003},"success":true}
+[00:36:17.426] Server  ERROR   Supabase Query Error:  {}
+[00:36:17.533] Browser LOG     Something went wrong
+[00:51:27.538] Server  LOG      ==> User trying to create new accounts
+[00:51:27.648] Browser LOG     Status for fetch:  {"success":true}
+[00:51:27.848] Server  ERROR   Supabase Query Error:  {}
+[00:51:37.260] Browser LOG     Something went wrong
+[00:53:30.251] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:53:30.503] Browser ERROR   uncaughtError: Error: Hydration failed because the server rendered HTML didn't match the client. As a result this tree will be regenerated on the client. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+https://react.dev/link/hydration-mismatch
+
+  ...
+    <RedirectBoundary>
+      <RedirectErrorBoundary router={{...}}>
+        <InnerLayoutRouter url="/signup" tree={[...]} params={{}} cacheNode={{lazyData:null, ...}} segmentPath={[...]} ...>
+          <SegmentViewNode type="page" pagePath="/mock-boar...">
+            <SegmentTrieNode>
+            <ClientPageRoot Component={function SignUpPage} serverProvidedParams={{...}}>
+              <SignUpPage params={Promise} searchParams={Promise}>
+                <SignupPage>
+                  <div className="styles-mod...">
+                    <div className="styles-mod...">
+                      <div>
+                      <h2>
+                      <form>
+                      <div>
+                      <div className="styles-mod...">
+                        <GoogleOAuthProvider clientId={undefined}>
+                          <GoogleLogin onSuccess={function onSuccess} onError={function onError} text="signup_with">
++                           <div ref={{current:null}} style={{height:40}}>
+                      ...
+          ...
+        ...
+
+[00:53:49.804] Server  LOG      ==> User trying to create new accounts
+[00:53:50.042] Browser LOG     Status for fetch:  {"success":true}
+[00:53:50.303] Server  LOG      ==> User Successfully Created an Account  null
+[00:53:50.417] Browser LOG     Status for fetch:  {"success":true}
+[00:54:05.381] Server  LOG      ==> User trying to create new accounts
+[00:54:05.500] Browser LOG     Status for fetch:  {"success":true}
+[00:54:05.721] Server  LOG      ==> User Successfully Created an Account  null
+[00:54:05.869] Browser LOG     Status for fetch:  {"success":true}
+[00:54:10.808] Server  LOG      ==> User Trying To Login
+[00:54:10.811] Server  LOG     Data Info:  [{...}]
+[00:54:11.096] Browser LOG     Status for fetch:  {"message":[{"email":"christian@lccbonline.edu.ph","password":"$2b$10$O2diiGTyUtVj0uDiC//mFu6odE1UCvmn2zhkExaI0veMfvuuMiING","role":"admin"}],"success":true}
+[00:54:11.159] Server  LOG      ==> User is Successfully Log In
+[00:54:11.285] Browser LOG     Status for fetch:  {"success":true}
+[00:54:11.285] Browser LOG     {"message":[{"email":"christian@lccbonline.edu.ph","password":"$2b$10$O2diiGTyUtVj0uDiC//mFu6odE1UCvmn2zhkExaI0veMfvuuMiING","role":"admin"}],"success":true}
+[00:54:11.552] Server  LOG      ==> User Authenticated
+[00:54:11.625] Server  LOG      ==> User Authenticated
+[00:54:11.737] Browser LOG     Email not found
+[00:54:11.737] Browser LOG     Email not found
+[00:54:11.737] Browser LOG     Email not found
+[00:54:11.737] Browser LOG     Email not found
+[00:54:11.737] Browser LOG     Status for fetch:  {"message":{"data":[{"email":"christian@lccbonline.edu.ph","id":1,"name":"Christian"}],"exp":1770913198,"iat":1770909598},"success":true}
+[00:54:11.737] Browser LOG     Email not found
+[00:54:11.737] Browser LOG     Email not found
+[00:54:11.737] Browser LOG     Status for fetch:  {"message":{"data":[{"email":"christian@lccbonline.edu.ph","id":1,"name":"Christian"}],"exp":1770913198,"iat":1770909598},"success":true}
+[00:54:11.833] Server  LOG     []
+[00:54:11.942] Browser LOG     Status for fetch:  {"message":[],"success":true}
+[00:54:11.942] Browser LOG     Status for fetch:  {"message":[],"success":true}
+[00:54:12.163] Browser LOG     [{"file_name":"No File Found","id":0}]
+[00:54:12.769] Server  LOG      ==> User Authenticated
+[00:54:12.772] Server  LOG      ==> User Authenticated
+[00:54:12.888] Browser LOG     Status for fetch:  {"message":{"data":[{"email":"christian@lccbonline.edu.ph","id":1,"name":"Christian"}],"exp":1770913198,"iat":1770909598},"success":true}
+[00:54:12.888] Browser LOG     Status for fetch:  {"message":{"data":[{"email":"christian@lccbonline.edu.ph","id":1,"name":"Christian"}],"exp":1770913198,"iat":1770909598},"success":true}
+[00:54:13.040] Browser LOG     Status for fetch:  {"message":[],"success":true}
+[00:54:13.040] Browser LOG     Status for fetch:  {"message":[],"success":true}
+[00:54:13.950] Server  LOG      ==> User Authenticated
+[00:54:13.956] Server  LOG      ==> User Authenticated
+[00:54:14.076] Browser LOG     Status for fetch:  {"message":{"data":[{"email":"christian@lccbonline.edu.ph","id":1,"name":"Christian"}],"exp":1770913198,"iat":1770909598},"success":true}
+[00:54:14.076] Browser LOG     Status for fetch:  {"message":{"data":[{"email":"christian@lccbonline.edu.ph","id":1,"name":"Christian"}],"exp":1770913198,"iat":1770909598},"success":true}
+[00:54:14.252] Browser LOG     Status for fetch:  {"message":[{"assign_by":null,"created_at":"2026-02-12T15:19:52.202591+00:00","email":"angel@lccbonline.edu.ph","id":2,"name":"Angel","password":"$2b$10$Pd04UrWW5/0B.o03e7vaf./67r2djFKhwkwNwLodyRpP/E.tatpne","role":"student","status":null}],"success":true}
+[00:54:14.252] Browser LOG     Status for fetch:  {"message":[{"assign_by":null,"created_at":"2026-02-12T15:19:52.202591+00:00","email":"angel@lccbonline.edu.ph","id":2,"name":"Angel","password":"$2b$10$Pd04UrWW5/0B.o03e7vaf./67r2djFKhwkwNwLodyRpP/E.tatpne","role":"student","status":null}],"success":true}
+[00:54:17.083] Browser LOG     Status for fetch:  {"success":true}
+[00:54:17.625] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:54:17.681] Server  LOG      ==> User Authenticated
+[00:54:17.799] Browser LOG     Status for fetch:  {"message":{"data":[{"email":"christian@lccbonline.edu.ph","id":1,"name":"Christian"}],"exp":1770913198,"iat":1770909598},"success":true}
+[00:54:18.051] Browser LOG     Status for fetch:  {"message":[],"success":true}
+[00:54:18.051] Browser LOG     Status for fetch:  {"message":[],"success":true}
+[00:54:19.376] Server  LOG      ==> User Authenticated
+[00:54:19.381] Server  LOG      ==> User Authenticated
+[00:54:19.489] Browser LOG     Status for fetch:  {"message":{"data":[{"email":"christian@lccbonline.edu.ph","id":1,"name":"Christian"}],"exp":1770913198,"iat":1770909598},"success":true}
+[00:54:19.489] Browser LOG     Status for fetch:  {"message":{"data":[{"email":"christian@lccbonline.edu.ph","id":1,"name":"Christian"}],"exp":1770913198,"iat":1770909598},"success":true}
+[00:54:19.719] Browser LOG     Status for fetch:  {"message":[{"assign_by":"christian@lccbonline.edu.ph","created_at":"2026-02-12T15:19:52.202591+00:00","email":"angel@lccbonline.edu.ph","id":2,"name":"Angel","password":"$2b$10$Pd04UrWW5/0B.o03e7vaf./67r2djFKhwkwNwLodyRpP/E.tatpne","role":"student","status":"pending"}],"success":true}
+[00:54:19.719] Browser LOG     Status for fetch:  {"message":[{"assign_by":"christian@lccbonline.edu.ph","created_at":"2026-02-12T15:19:52.202591+00:00","email":"angel@lccbonline.edu.ph","id":2,"name":"Angel","password":"$2b$10$Pd04UrWW5/0B.o03e7vaf./67r2djFKhwkwNwLodyRpP/E.tatpne","role":"student","status":"pending"}],"success":true}
+[00:54:27.524] Server  LOG      ==> User Authenticated
+[00:54:27.529] Server  LOG      ==> User Authenticated
+[00:54:27.640] Browser LOG     Email not found
+[00:54:27.640] Browser LOG     Email not found
+[00:54:27.640] Browser LOG     Status for fetch:  {"message":{"data":[{"email":"christian@lccbonline.edu.ph","id":1,"name":"Christian"}],"exp":1770913198,"iat":1770909598},"success":true}
+[00:54:27.640] Browser LOG     Status for fetch:  {"message":{"data":[{"email":"christian@lccbonline.edu.ph","id":1,"name":"Christian"}],"exp":1770913198,"iat":1770909598},"success":true}
+[00:54:27.923] Browser LOG     [{"file_name":"No File Found","id":0}]
+[00:54:30.408] Server  LOG      ==> User Authenticated
+[00:54:30.413] Server  LOG      ==> User Authenticated
+[00:54:30.523] Browser LOG     Status for fetch:  {"message":{"data":[{"email":"christian@lccbonline.edu.ph","id":1,"name":"Christian"}],"exp":1770913198,"iat":1770909598},"success":true}
+[00:54:30.523] Browser LOG     Status for fetch:  {"message":{"data":[{"email":"christian@lccbonline.edu.ph","id":1,"name":"Christian"}],"exp":1770913198,"iat":1770909598},"success":true}
+[00:55:21.240] Browser LOG     Excel Rows: [{"A":"Teach classes","B":"Manage library resources","C":"Sell books","Correct Answer":"B","D":"Write books","Question":"What is the main role of a librarian?"},{"A":"Dewey Decimal System","B":"Binary System","C":"Solar System","Correct Answer":"A","D":"Metric System","Question":"Which system is used to organize books?"},{"A":"Isaac Newton","B":"Melvil Dewey","C":"Albert Einstein","Correct Answer":"B","D":"Charles Darwin","Question":"Who developed the Dewey Decimal System?"},{"A":"Books","B":"Journals","C":"Magazines","Correct Answer":"D","D":"Groceries","Question":"Which material is NOT found in a library?"}]
+[00:55:30.324] Server  LOG     Status:  null
+[00:55:30.433] Browser LOG     Status for file upload: {"message":"File upload successfully","success":true}
+[00:55:36.114] Server  LOG      ==> User Authenticated
+[00:55:36.141] Server  LOG      ==> User Authenticated
+[00:55:36.251] Browser LOG     Email not found
+[00:55:36.251] Browser LOG     Status for fetch:  {"message":{"data":[{"email":"christian@lccbonline.edu.ph","id":1,"name":"Christian"}],"exp":1770913198,"iat":1770909598},"success":true}
+[00:55:36.251] Browser LOG     Email not found
+[00:55:36.251] Browser LOG     Status for fetch:  {"message":{"data":[{"email":"christian@lccbonline.edu.ph","id":1,"name":"Christian"}],"exp":1770913198,"iat":1770909598},"success":true}
+[00:55:36.725] Browser LOG     Status for fetch:  {"message":[{"created_at":"2026-02-12T15:21:16.781003+00:00","duration":"60","exam_title":"Librarian Exam","file_dir":"uploads/1770909676493_1767894666330_xample1.0 (1).xlsx","id":1,"items":4,"parts":"1"}],"success":true}
+[00:55:47.704] Server  LOG      ==> User Trying To Login
+[00:55:47.707] Server  LOG     Data Info:  [{...}]
+[00:55:47.981] Browser LOG     Status for fetch:  {"message":[{"email":"angel@lccbonline.edu.ph","password":"$2b$10$Pd04UrWW5/0B.o03e7vaf./67r2djFKhwkwNwLodyRpP/E.tatpne","role":"student"}],"success":true}
+[00:55:48.075] Server  LOG      ==> User is Successfully Log In
+[00:55:48.183] Browser LOG     Status for fetch:  {"success":true}
+[00:55:48.183] Browser LOG     {"message":[{"email":"angel@lccbonline.edu.ph","password":"$2b$10$Pd04UrWW5/0B.o03e7vaf./67r2djFKhwkwNwLodyRpP/E.tatpne","role":"student"}],"success":true}
+[00:55:49.296] Server  LOG      ==> User Authenticated
+[00:55:49.412] Server  LOG      ==> User Authenticated
+[00:55:49.425] Browser LOG     Status for fetch:  {"message":{"data":[{"email":"angel@lccbonline.edu.ph","id":2,"name":"Angel"}],"exp":1770913295,"iat":1770909695},"success":true}
+[00:55:49.523] Browser LOG     Status for fetch:  {"message":{"data":[{"email":"angel@lccbonline.edu.ph","id":2,"name":"Angel"}],"exp":1770913295,"iat":1770909695},"success":true}
+[00:55:49.768] Browser LOG     Email not found
+[00:55:49.768] Browser LOG     Email not found
+[00:55:50.457] Browser LOG     Status for fetch:  {"message":[{"category":"exam","created_at":"2026-02-12T15:21:16.781003+00:00","duration":"60","email":"christian@lccbonline.edu.ph","exam_title":"Librarian Exam","file_dir":"uploads/1770909676493_1767894666330_xample1.0 (1).xlsx","id":1,"items":4,"parts":"1"}],"message2":[],"success":true}
+[00:55:50.457] Browser LOG     {"message":[{"category":"exam","created_at":"2026-02-12T15:21:16.781003+00:00","duration":"60","email":"christian@lccbonline.edu.ph","exam_title":"Librarian Exam","file_dir":"uploads/1770909676493_1767894666330_xample1.0 (1).xlsx","id":1,"items":4,"parts":"1"}],"message2":[],"success":true}
+[00:55:59.194] Server  LOG      ==> User Authenticated
+[00:55:59.222] Server  LOG      ==> User Authenticated
+[00:55:59.342] Browser LOG     Email not found
+[00:55:59.342] Browser LOG     Email not found
+[00:55:59.342] Browser LOG     Status for fetch:  {"message":{"data":[{"email":"angel@lccbonline.edu.ph","id":2,"name":"Angel"}],"exp":1770913295,"iat":1770909695},"success":true}
+[00:55:59.342] Browser LOG     Status for fetch:  {"message":{"data":[{"email":"angel@lccbonline.edu.ph","id":2,"name":"Angel"}],"exp":1770913295,"iat":1770909695},"success":true}
+[00:56:10.510] Server  LOG      ==> User Authenticated
+[00:56:10.525] Server  LOG      ==> User Authenticated
+[00:56:10.633] Browser LOG     Email not found
+[00:56:10.633] Browser LOG     Email not found
+[00:56:10.633] Browser LOG     Status for fetch:  {"message":{"data":[{"email":"angel@lccbonline.edu.ph","id":2,"name":"Angel"}],"exp":1770913295,"iat":1770909695},"success":true}
+[00:56:10.633] Browser LOG     Status for fetch:  {"message":{"data":[{"email":"angel@lccbonline.edu.ph","id":2,"name":"Angel"}],"exp":1770913295,"iat":1770909695},"success":true}
+[00:56:11.210] Browser LOG     Status for fetch:  {"message":[{"category":"exam","created_at":"2026-02-12T15:21:16.781003+00:00","duration":"60","email":"christian@lccbonline.edu.ph","exam_title":"Librarian Exam","file_dir":"uploads/1770909676493_1767894666330_xample1.0 (1).xlsx","id":1,"items":4,"parts":"1"}],"message2":[],"success":true}
+[00:56:11.210] Browser LOG     []
+[00:56:15.922] Server  LOG      ==> User Authenticated
+[00:56:15.954] Server  LOG      ==> User Authenticated
+[00:56:16.011] Server  LOG      ==> User Authenticated
+[00:56:16.037] Server  LOG      ==> User Authenticated
+[00:56:16.145] Browser LOG     Status for fetch:  {"message":{"data":[{"email":"angel@lccbonline.edu.ph","id":2,"name":"Angel"}],"exp":1770913295,"iat":1770909695},"success":true}
+[00:56:16.145] Browser LOG     Status for fetch:  {"message":{"data":[{"email":"angel@lccbonline.edu.ph","id":2,"name":"Angel"}],"exp":1770913295,"iat":1770909695},"success":true}
+[00:56:16.145] Browser LOG     Status for fetch:  {"message":{"data":[{"email":"angel@lccbonline.edu.ph","id":2,"name":"Angel"}],"exp":1770913295,"iat":1770909695},"success":true}
+[00:56:16.145] Browser LOG     Status for fetch:  {"message":{"data":[{"email":"angel@lccbonline.edu.ph","id":2,"name":"Angel"}],"exp":1770913295,"iat":1770909695},"success":true}
+[00:56:16.351] Server  LOG     [Python API] Downloading file from: http://127.0.0.1:10000/download-file with id: 1
+[00:56:16.372] Server  LOG     [Python API] Downloading file from: http://127.0.0.1:10000/download-file with id: 1
+[00:56:16.404] Server  ERROR   Attempt 1 fetch error: "fetch failed"
+[00:56:16.407] Server  ERROR   Attempt 1 fetch error: "fetch failed"
+[00:56:17.414] Server  ERROR   Attempt 2 fetch error: "fetch failed"
+[00:56:17.417] Server  ERROR   Attempt 2 fetch error: "fetch failed"
+[00:56:18.433] Server  ERROR   Attempt 3 fetch error: "fetch failed"
+[00:56:18.435] Server  LOG     [Python API] Download response: {}
+[00:56:18.436] Server  ERROR   [Python API] File download failed: "All 3 attempts failed for http://127.0.0.1:10000/download-file"
+[00:56:18.446] Server  ERROR   Attempt 3 fetch error: "fetch failed"
+[00:56:18.448] Server  LOG     [Python API] Download response: {}
+[00:56:18.449] Server  ERROR   [Python API] File download failed: "All 3 attempts failed for http://127.0.0.1:10000/download-file"
+[00:56:51.735] Browser LOG     All 3 attempts failed for http://127.0.0.1:10000/download-file
+[00:56:51.735] Browser LOG     Question fetch response: {"message":"All 3 attempts failed for http://127.0.0.1:10000/download-file","success":false}
+[00:56:51.735] Browser ERROR   Failed to fetch questions: All 3 attempts failed for http://127.0.0.1:10000/download-file
+[00:56:51.735] Browser ERROR   Full response object: {"message":"All 3 attempts failed for http://127.0.0.1:10000/download-file","success":false}
+[00:56:53.148] Browser LOG     All 3 attempts failed for http://127.0.0.1:10000/download-file
+[00:56:53.148] Browser LOG     Question fetch response: {"message":"All 3 attempts failed for http://127.0.0.1:10000/download-file","success":false}
+[00:56:53.148] Browser ERROR   Failed to fetch questions: All 3 attempts failed for http://127.0.0.1:10000/download-file
+[00:56:53.148] Browser ERROR   Full response object: {"message":"All 3 attempts failed for http://127.0.0.1:10000/download-file","success":false}
+[01:16:18.689] Server  LOG        Reload env: .env.local
+[01:16:19.804] Server  LOG      ✓ Compiled in 568ms
+[01:17:21.857] Server  LOG      ==> User Authenticated
+[01:17:21.862] Server  LOG      ==> User Authenticated
+[01:17:21.873] Browser LOG     Email not found
+[01:17:21.873] Browser LOG     Email not found
+[01:17:21.973] Browser LOG     Status for fetch:  {"message":{"data":[{"email":"angel@lccbonline.edu.ph","id":2,"name":"Angel"}],"exp":1770913295,"iat":1770909695},"success":true}
+[01:17:21.973] Browser LOG     Status for fetch:  {"message":{"data":[{"email":"angel@lccbonline.edu.ph","id":2,"name":"Angel"}],"exp":1770913295,"iat":1770909695},"success":true}
+[01:17:24.820] Browser LOG     Status for fetch:  {"message":[{"category":"exam","created_at":"2026-02-12T15:21:16.781003+00:00","duration":"60","email":"christian@lccbonline.edu.ph","exam_title":"Librarian Exam","file_dir":"uploads/1770909676493_1767894666330_xample1.0 (1).xlsx","id":1,"items":4,"parts":"1"}],"message2":[],"success":true}
+[01:17:24.820] Browser LOG     []
+[01:17:25.425] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:17:25.550] Server  LOG      ==> User Authenticated
+[01:17:25.659] Browser LOG     Email not found
+[01:17:25.659] Browser LOG     Status for fetch:  {"message":{"data":[{"email":"angel@lccbonline.edu.ph","id":2,"name":"Angel"}],"exp":1770913295,"iat":1770909695},"success":true}
+[01:17:26.104] Browser LOG     Status for fetch:  {"message":[{"category":"exam","created_at":"2026-02-12T15:21:16.781003+00:00","duration":"60","email":"christian@lccbonline.edu.ph","exam_title":"Librarian Exam","file_dir":"uploads/1770909676493_1767894666330_xample1.0 (1).xlsx","id":1,"items":4,"parts":"1"}],"message2":[],"success":true}
+[01:17:26.104] Browser LOG     []
+[01:17:27.385] Server  LOG      ==> User Authenticated
+[01:17:27.436] Server  LOG     [Python API] Downloading file from: http://127.0.0.1:10000/download-file with id: 1
+[01:17:27.554] Server  LOG      ==> User Authenticated
+[01:17:27.681] Browser LOG     Status for fetch:  {"message":{"data":[{"email":"angel@lccbonline.edu.ph","id":2,"name":"Angel"}],"exp":1770913295,"iat":1770909695},"success":true}
+[01:17:27.684] Browser LOG     Status for fetch:  {"message":{"data":[{"email":"angel@lccbonline.edu.ph","id":2,"name":"Angel"}],"exp":1770913295,"iat":1770909695},"success":true}
+[01:17:27.715] Server  LOG      ==> User Authenticated
+[01:17:27.750] Server  LOG      ==> User Authenticated
+[01:17:27.774] Server  LOG     [Python API] Downloading file from: http://127.0.0.1:10000/download-file with id: 1
+[01:17:27.856] Browser LOG     Status for fetch:  {"message":{"data":[{"email":"angel@lccbonline.edu.ph","id":2,"name":"Angel"}],"exp":1770913295,"iat":1770909695},"success":true}
+[01:17:27.856] Browser LOG     Status for fetch:  {"message":{"data":[{"email":"angel@lccbonline.edu.ph","id":2,"name":"Angel"}],"exp":1770913295,"iat":1770909695},"success":true}
+[01:17:29.035] Server  LOG     Status for fetch:  {}
+[01:17:29.037] Server  LOG     [Python API] Download response: {}
+[01:17:29.037] Server  LOG     [Python API] Generating questions from: http://127.0.0.1:10000/generate-questionare
+[01:17:29.047] Server  LOG     Status for fetch:  {}
+[01:17:29.050] Server  LOG     [Python API] Download response: {}
+[01:17:29.050] Server  LOG     [Python API] Generating questions from: http://127.0.0.1:10000/generate-questionare
+[01:17:29.995] Server  LOG     Status for fetch:  {}
+[01:17:29.999] Server  LOG     [Python API] Question generation response: {}
+[01:17:30.034] Server  LOG     Status for fetch:  {}
+[01:17:30.054] Server  LOG     [Python API] Question generation response: {}
+[01:17:30.160] Browser LOG     Status for fetch:  {"message":{"data":{"data":[{"A":"Teach classes","B":"Manage library resources","C":"Sell books","Correct Answer":"B","D":"Write books","Question":"What is the main role of a librarian?"},{"A":"Dewey Decimal System","B":"Binary System","C":"Solar System","Correct Answer":"A","D":"Metric System","Question":"Which system is used to organize books?"},{"A":"Isaac Newton","B":"Melvil Dewey","C":"Albert Einstein","Correct Answer":"B","D":"Charles Darwin","Question":"Who developed the Dewey Decimal System?"},{"A":"Books","B":"Journals","C":"Magazines","Correct Answer":"D","D":"Groceries","Question":"Which material is NOT found in a library?"}],"success":true,"total_rows":4},"success":true},"success":true}
+[01:17:30.160] Browser LOG     Question fetch response: {"data":{"message":{"data":{"data":["[Object]","[Object]","[Object]","[Object]"],"success":true,"total_rows":4},"success":true},"success":true},"success":true}
+[01:17:30.160] Browser LOG     Status for fetch:  {"message":{"data":{"data":[{"A":"Teach classes","B":"Manage library resources","C":"Sell books","Correct Answer":"B","D":"Write books","Question":"What is the main role of a librarian?"},{"A":"Dewey Decimal System","B":"Binary System","C":"Solar System","Correct Answer":"A","D":"Metric System","Question":"Which system is used to organize books?"},{"A":"Isaac Newton","B":"Melvil Dewey","C":"Albert Einstein","Correct Answer":"B","D":"Charles Darwin","Question":"Who developed the Dewey Decimal System?"},{"A":"Books","B":"Journals","C":"Magazines","Correct Answer":"D","D":"Groceries","Question":"Which material is NOT found in a library?"}],"success":true,"total_rows":4},"success":true},"success":true}
+[01:17:30.160] Browser LOG     Question fetch response: {"data":{"message":{"data":{"data":["[Object]","[Object]","[Object]","[Object]"],"success":true,"total_rows":4},"success":true},"success":true},"success":true}
+[01:18:11.848] Browser LOG     Submitting data: {"assign_by":"christian@lccbonline.edu.ph","category":"exam","email":"angel@lccbonline.edu.ph","exam_title":"Librarian Exam","examinee_name":"Angel","parts":"1","passing_score":3,"score":4,"status":"Passed"}
+[01:18:12.769] Browser LOG     Status for fetch:  {"success":true}
+[01:18:13.137] Server  LOG      ==> User Authenticated
+[01:18:13.181] Server  LOG      ==> User Authenticated
+[01:18:13.291] Browser LOG     Email not found
+[01:18:13.292] Browser LOG     Email not found
+[01:18:13.292] Browser LOG     Status for fetch:  {"message":{"data":[{"email":"angel@lccbonline.edu.ph","id":2,"name":"Angel"}],"exp":1770913295,"iat":1770909695},"success":true}
+[01:18:13.292] Browser LOG     Status for fetch:  {"message":{"data":[{"email":"angel@lccbonline.edu.ph","id":2,"name":"Angel"}],"exp":1770913295,"iat":1770909695},"success":true}
+[01:18:13.766] Browser LOG     Status for fetch:  {"message":[{"category":"exam","created_at":"2026-02-12T15:21:16.781003+00:00","duration":"60","email":"christian@lccbonline.edu.ph","exam_title":"Librarian Exam","file_dir":"uploads/1770909676493_1767894666330_xample1.0 (1).xlsx","id":1,"items":4,"parts":"1"}],"message2":[{"assign_by":"christian@lccbonline.edu.ph","category":"exam","created_at":"2026-02-12T15:43:58.85906+00:00","email":"angel@lccbonline.edu.ph","exam_title":"Librarian Exam","examinee_name":"Angel","id":1,"parts":"1","passing_score":3,"score":4,"status":"Passed"}],"success":true}
+[01:18:13.766] Browser LOG     {"message":[{"category":"exam","created_at":"2026-02-12T15:21:16.781003+00:00","duration":"60","email":"christian@lccbonline.edu.ph","exam_title":"Librarian Exam","file_dir":"uploads/1770909676493_1767894666330_xample1.0 (1).xlsx","id":1,"items":4,"parts":"1"}],"message2":[{"assign_by":"christian@lccbonline.edu.ph","category":"exam","created_at":"2026-02-12T15:43:58.85906+00:00","email":"angel@lccbonline.edu.ph","exam_title":"Librarian Exam","examinee_name":"Angel","id":1,"parts":"1","passing_score":3,"score":4,"status":"Passed"}],"success":true}
+[01:18:19.605] Browser LOG     Status for fetch:  {"message":"Logged out","success":true}
+[01:18:21.591] Server  LOG      ==> User Trying To Login
+[01:18:21.593] Server  LOG     Data Info:  [{...}]
+[01:18:21.854] Browser LOG     Status for fetch:  {"message":[{"email":"angel@lccbonline.edu.ph","password":"$2b$10$Pd04UrWW5/0B.o03e7vaf./67r2djFKhwkwNwLodyRpP/E.tatpne","role":"student"}],"success":true}
+[01:18:22.018] Server  LOG      ==> User is Successfully Log In
+[01:18:22.135] Browser LOG     Status for fetch:  {"success":true}
+[01:18:22.135] Browser LOG     {"message":[{"email":"angel@lccbonline.edu.ph","password":"$2b$10$Pd04UrWW5/0B.o03e7vaf./67r2djFKhwkwNwLodyRpP/E.tatpne","role":"student"}],"success":true}
+[01:18:22.239] Server  LOG      ==> User Authenticated
+[01:18:22.243] Server  LOG      ==> User Authenticated
+[01:18:22.363] Browser LOG     Email not found
+[01:18:22.363] Browser LOG     Email not found
+[01:18:22.363] Browser LOG     Status for fetch:  {"message":{"data":[{"email":"angel@lccbonline.edu.ph","id":2,"name":"Angel"}],"exp":1770914649,"iat":1770911049},"success":true}
+[01:18:22.363] Browser LOG     Status for fetch:  {"message":{"data":[{"email":"angel@lccbonline.edu.ph","id":2,"name":"Angel"}],"exp":1770914649,"iat":1770911049},"success":true}
+[01:18:22.803] Browser LOG     Status for fetch:  {"message":[{"category":"exam","created_at":"2026-02-12T15:21:16.781003+00:00","duration":"60","email":"christian@lccbonline.edu.ph","exam_title":"Librarian Exam","file_dir":"uploads/1770909676493_1767894666330_xample1.0 (1).xlsx","id":1,"items":4,"parts":"1"}],"message2":[{"assign_by":"christian@lccbonline.edu.ph","category":"exam","created_at":"2026-02-12T15:43:58.85906+00:00","email":"angel@lccbonline.edu.ph","exam_title":"Librarian Exam","examinee_name":"Angel","id":1,"parts":"1","passing_score":3,"score":4,"status":"Passed"}],"success":true}
+[01:18:22.804] Browser LOG     {"message":[{"category":"exam","created_at":"2026-02-12T15:21:16.781003+00:00","duration":"60","email":"christian@lccbonline.edu.ph","exam_title":"Librarian Exam","file_dir":"uploads/1770909676493_1767894666330_xample1.0 (1).xlsx","id":1,"items":4,"parts":"1"}],"message2":[{"assign_by":"christian@lccbonline.edu.ph","category":"exam","created_at":"2026-02-12T15:43:58.85906+00:00","email":"angel@lccbonline.edu.ph","exam_title":"Librarian Exam","examinee_name":"Angel","id":1,"parts":"1","passing_score":3,"score":4,"status":"Passed"}],"success":true}
+[01:18:26.526] Server  LOG      ==> User Authenticated
+[01:18:26.565] Server  LOG      ==> User Authenticated
+[01:18:26.674] Browser LOG     Email not found
+[01:18:26.674] Browser LOG     Status for fetch:  {"message":{"data":[{"email":"angel@lccbonline.edu.ph","id":2,"name":"Angel"}],"exp":1770914649,"iat":1770911049},"success":true}
+[01:18:26.674] Browser LOG     Email not found
+[01:18:26.674] Browser LOG     Status for fetch:  {"message":{"data":[{"email":"angel@lccbonline.edu.ph","id":2,"name":"Angel"}],"exp":1770914649,"iat":1770911049},"success":true}
+[01:18:32.020] Server  LOG      ==> User Authenticated
+[01:18:32.031] Server  LOG      ==> User Authenticated
+[01:18:32.147] Browser LOG     Email not found
+[01:18:32.147] Browser LOG     Email not found
+[01:18:32.147] Browser LOG     Status for fetch:  {"message":{"data":[{"email":"angel@lccbonline.edu.ph","id":2,"name":"Angel"}],"exp":1770914649,"iat":1770911049},"success":true}
+[01:18:32.147] Browser LOG     Status for fetch:  {"message":{"data":[{"email":"angel@lccbonline.edu.ph","id":2,"name":"Angel"}],"exp":1770914649,"iat":1770911049},"success":true}
+[01:18:32.573] Browser LOG     Status for fetch:  {"message":[{"category":"exam","created_at":"2026-02-12T15:21:16.781003+00:00","duration":"60","email":"christian@lccbonline.edu.ph","exam_title":"Librarian Exam","file_dir":"uploads/1770909676493_1767894666330_xample1.0 (1).xlsx","id":1,"items":4,"parts":"1"}],"message2":[{"assign_by":"christian@lccbonline.edu.ph","category":"exam","created_at":"2026-02-12T15:43:58.85906+00:00","email":"angel@lccbonline.edu.ph","exam_title":"Librarian Exam","examinee_name":"Angel","id":1,"parts":"1","passing_score":3,"score":4,"status":"Passed"}],"success":true}
+[01:18:32.573] Browser LOG     [{"assign_by":"christian@lccbonline.edu.ph","category":"exam","created_at":"2026-02-12T15:43:58.85906+00:00","email":"angel@lccbonline.edu.ph","exam_title":"Librarian Exam","examinee_name":"Angel","id":1,"parts":"1","passing_score":3,"score":4,"status":"Passed"}]
+[01:18:38.148] Server  LOG      ==> User Authenticated
+[01:18:38.181] Server  LOG      ==> User Authenticated
+[01:18:38.286] Browser LOG     Email not found
+[01:18:38.286] Browser LOG     Status for fetch:  {"message":{"data":[{"email":"angel@lccbonline.edu.ph","id":2,"name":"Angel"}],"exp":1770914649,"iat":1770911049},"success":true}
+[01:18:38.286] Browser LOG     Email not found
+[01:18:38.286] Browser LOG     Status for fetch:  {"message":{"data":[{"email":"angel@lccbonline.edu.ph","id":2,"name":"Angel"}],"exp":1770914649,"iat":1770911049},"success":true}
+[01:18:50.171] Server  LOG      ==> User Trying To Login
+[01:18:50.174] Server  LOG     Data Info:  [{...}]
+[01:18:50.429] Browser LOG     Status for fetch:  {"message":[{"email":"christian@lccbonline.edu.ph","password":"$2b$10$O2diiGTyUtVj0uDiC//mFu6odE1UCvmn2zhkExaI0veMfvuuMiING","role":"admin"}],"success":true}
+[01:18:50.501] Server  LOG      ==> User is Successfully Log In
+[01:18:50.636] Browser LOG     Status for fetch:  {"success":true}
+[01:18:50.637] Browser LOG     {"message":[{"email":"christian@lccbonline.edu.ph","password":"$2b$10$O2diiGTyUtVj0uDiC//mFu6odE1UCvmn2zhkExaI0veMfvuuMiING","role":"admin"}],"success":true}
+[01:18:50.799] Server  LOG      ==> User Authenticated
+[01:18:51.111] Server  LOG      ==> User Authenticated
+[01:18:51.218] Browser LOG     Status for fetch:  {"message":{"data":[{"email":"christian@lccbonline.edu.ph","id":1,"name":"Christian"}],"exp":1770914678,"iat":1770911078},"success":true}
+[01:18:51.218] Browser LOG     Email not found
+[01:18:51.218] Browser LOG     Email not found
+[01:18:51.218] Browser LOG     Email not found
+[01:18:51.218] Browser LOG     Email not found
+[01:18:51.219] Browser LOG     Email not found
+[01:18:51.219] Browser LOG     Email not found
+[01:18:51.219] Browser LOG     Status for fetch:  {"message":{"data":[{"email":"christian@lccbonline.edu.ph","id":1,"name":"Christian"}],"exp":1770914678,"iat":1770911078},"success":true}
+[01:18:51.347] Browser LOG     Status for fetch:  {"message":[{"assign_by":"christian@lccbonline.edu.ph","created_at":"2026-02-12T15:19:52.202591+00:00","email":"angel@lccbonline.edu.ph","id":2,"name":"Angel","password":"$2b$10$Pd04UrWW5/0B.o03e7vaf./67r2djFKhwkwNwLodyRpP/E.tatpne","role":"student","status":"pending"}],"success":true}
+[01:18:51.379] Server  LOG     [{...}]
+[01:18:51.559] Browser LOG     Status for fetch:  {"message":[{"assign_by":"christian@lccbonline.edu.ph","category":"exam","created_at":"2026-02-12T15:43:58.85906+00:00","email":"angel@lccbonline.edu.ph","exam_title":"Librarian Exam","examinee_name":"Angel","id":1,"parts":"1","passing_score":3,"score":4,"status":"Passed"}],"success":true}
+[01:18:51.560] Browser LOG     Status for fetch:  {"message":[{"created_at":"2026-02-12T15:21:16.781003+00:00","duration":"60","exam_title":"Librarian Exam","file_dir":"uploads/1770909676493_1767894666330_xample1.0 (1).xlsx","id":1,"items":4,"parts":"1"}],"success":true}
+[01:18:56.631] Server  LOG      ==> User Authenticated
+[01:18:56.642] Server  LOG      ==> User Authenticated
+[01:18:56.746] Browser LOG     Email not found
+[01:18:56.746] Browser LOG     Email not found
+[01:18:56.746] Browser LOG     Status for fetch:  {"message":{"data":[{"email":"christian@lccbonline.edu.ph","id":1,"name":"Christian"}],"exp":1770914678,"iat":1770911078},"success":true}
+[01:18:56.746] Browser LOG     Status for fetch:  {"message":{"data":[{"email":"christian@lccbonline.edu.ph","id":1,"name":"Christian"}],"exp":1770914678,"iat":1770911078},"success":true}
+[01:18:57.438] Server  LOG     [{...}]
+[01:18:57.552] Browser LOG     Status for fetch:  {"message":[{"assign_by":"christian@lccbonline.edu.ph","category":"exam","created_at":"2026-02-12T15:43:58.85906+00:00","email":"angel@lccbonline.edu.ph","exam_title":"Librarian Exam","examinee_name":"Angel","id":1,"parts":"1","passing_score":3,"score":4,"status":"Passed"}],"success":true}
+[01:20:13.521] Server  LOG      ==> User Authenticated
+[01:20:13.548] Server  LOG      ==> User Authenticated
+[01:20:13.676] Browser LOG     Email not found
+[01:20:13.676] Browser LOG     Status for fetch:  {"message":{"data":[{"email":"christian@lccbonline.edu.ph","id":1,"name":"Christian"}],"exp":1770914678,"iat":1770911078},"success":true}
+[01:20:13.676] Browser LOG     Status for fetch:  {"message":{"data":[{"email":"christian@lccbonline.edu.ph","id":1,"name":"Christian"}],"exp":1770914678,"iat":1770911078},"success":true}
+[01:20:13.676] Browser LOG     Email not found
+[01:20:14.195] Browser LOG     Status for fetch:  {"message":[{"created_at":"2026-02-12T15:21:16.781003+00:00","duration":"60","exam_title":"Librarian Exam","file_dir":"uploads/1770909676493_1767894666330_xample1.0 (1).xlsx","id":1,"items":4,"parts":"1"}],"success":true}
+[01:20:21.046] Server  LOG     storage delete response: [{...}] null
+[01:20:21.351] Browser LOG     Status for fetch:  {"message":null,"success":true}
+[01:20:26.190] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:20:26.534] Server  LOG      ==> User Authenticated
+[01:20:26.648] Browser LOG     Email not found
+[01:20:26.648] Browser LOG     Status for fetch:  {"message":{"data":[{"email":"christian@lccbonline.edu.ph","id":1,"name":"Christian"}],"exp":1770914678,"iat":1770911078},"success":true}
+[01:20:26.858] Browser LOG     [{"file_name":"No File Found","id":0}]
+[01:21:02.594] Server  LOG      ==> User Authenticated
+[01:21:02.605] Server  LOG      ==> User Authenticated
+[01:21:02.714] Browser LOG     Email not found
+[01:21:02.714] Browser LOG     Email not found
+[01:21:02.714] Browser LOG     Status for fetch:  {"message":{"data":[{"email":"christian@lccbonline.edu.ph","id":1,"name":"Christian"}],"exp":1770914678,"iat":1770911078},"success":true}
+[01:21:02.714] Browser LOG     Status for fetch:  {"message":{"data":[{"email":"christian@lccbonline.edu.ph","id":1,"name":"Christian"}],"exp":1770914678,"iat":1770911078},"success":true}
+[01:21:03.612] Server  LOG     [{...}]
+[01:21:03.726] Browser LOG     Status for fetch:  {"message":[{"assign_by":"christian@lccbonline.edu.ph","category":"exam","created_at":"2026-02-12T15:43:58.85906+00:00","email":"angel@lccbonline.edu.ph","exam_title":"Librarian Exam","examinee_name":"Angel","id":1,"parts":"1","passing_score":3,"score":4,"status":"Passed"}],"success":true}
+[01:22:01.992] Server  LOG      ==> User Authenticated
+[01:22:01.996] Server  LOG      ==> User Authenticated
+[01:22:02.102] Browser LOG     Email not found
+[01:22:02.102] Browser LOG     Email not found
+[01:22:02.102] Browser LOG     Status for fetch:  {"message":{"data":[{"email":"christian@lccbonline.edu.ph","id":1,"name":"Christian"}],"exp":1770914678,"iat":1770911078},"success":true}
+[01:22:02.102] Browser LOG     Status for fetch:  {"message":{"data":[{"email":"christian@lccbonline.edu.ph","id":1,"name":"Christian"}],"exp":1770914678,"iat":1770911078},"success":true}
+[01:22:02.508] Browser LOG     [{"file_name":"No File Found","id":0}]
+[01:22:28.452] Server  LOG      ==> User Authenticated
+[01:22:28.457] Server  LOG      ==> User Authenticated
+[01:22:28.581] Browser LOG     Status for fetch:  {"message":{"data":[{"email":"christian@lccbonline.edu.ph","id":1,"name":"Christian"}],"exp":1770914678,"iat":1770911078},"success":true}
+[01:22:28.581] Browser LOG     Status for fetch:  {"message":{"data":[{"email":"christian@lccbonline.edu.ph","id":1,"name":"Christian"}],"exp":1770914678,"iat":1770911078},"success":true}
+[01:22:28.892] Browser LOG     Status for fetch:  {"message":[{"assign_by":"christian@lccbonline.edu.ph","created_at":"2026-02-12T15:19:52.202591+00:00","email":"angel@lccbonline.edu.ph","id":2,"name":"Angel","password":"$2b$10$Pd04UrWW5/0B.o03e7vaf./67r2djFKhwkwNwLodyRpP/E.tatpne","role":"student","status":"pending"}],"success":true}
+[01:22:28.892] Browser LOG     Status for fetch:  {"message":[{"assign_by":"christian@lccbonline.edu.ph","created_at":"2026-02-12T15:19:52.202591+00:00","email":"angel@lccbonline.edu.ph","id":2,"name":"Angel","password":"$2b$10$Pd04UrWW5/0B.o03e7vaf./67r2djFKhwkwNwLodyRpP/E.tatpne","role":"student","status":"pending"}],"success":true}
+[01:22:31.104] Server  LOG      ==> User Authenticated
+[01:22:31.175] Server  LOG      ==> User Authenticated
+[01:22:31.294] Browser LOG     Email not found
+[01:22:31.294] Browser LOG     Email not found
+[01:22:31.294] Browser LOG     Email not found
+[01:22:31.294] Browser LOG     Email not found
+[01:22:31.294] Browser LOG     Status for fetch:  {"message":{"data":[{"email":"christian@lccbonline.edu.ph","id":1,"name":"Christian"}],"exp":1770914678,"iat":1770911078},"success":true}
+[01:22:31.294] Browser LOG     Email not found
+[01:22:31.294] Browser LOG     Email not found
+[01:22:31.294] Browser LOG     Status for fetch:  {"message":{"data":[{"email":"christian@lccbonline.edu.ph","id":1,"name":"Christian"}],"exp":1770914678,"iat":1770911078},"success":true}
+[01:22:31.472] Server  LOG     [{...}]
+[01:22:31.506] Browser LOG     [{"file_name":"No File Found","id":0}]
+[01:22:31.625] Browser LOG     Status for fetch:  {"message":[{"assign_by":"christian@lccbonline.edu.ph","category":"exam","created_at":"2026-02-12T15:43:58.85906+00:00","email":"angel@lccbonline.edu.ph","exam_title":"Librarian Exam","examinee_name":"Angel","id":1,"parts":"1","passing_score":3,"score":4,"status":"Passed"}],"success":true}
+[01:22:31.625] Browser LOG     Status for fetch:  {"message":[{"assign_by":"christian@lccbonline.edu.ph","created_at":"2026-02-12T15:19:52.202591+00:00","email":"angel@lccbonline.edu.ph","id":2,"name":"Angel","password":"$2b$10$Pd04UrWW5/0B.o03e7vaf./67r2djFKhwkwNwLodyRpP/E.tatpne","role":"student","status":"pending"}],"success":true}
+[01:23:08.959] Browser LOG     Status for fetch:  {"message":"Logged out","success":true}

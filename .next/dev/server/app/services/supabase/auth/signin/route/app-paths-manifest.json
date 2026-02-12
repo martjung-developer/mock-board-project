@@ -1,0 +1,3 @@
+{
+  "/services/supabase/auth/signin/route": "app/services/supabase/auth/signin/route.js"
+}

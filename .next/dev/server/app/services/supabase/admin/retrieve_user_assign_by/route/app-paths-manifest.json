@@ -1,0 +1,3 @@
+{
+  "/services/supabase/admin/retrieve_user_assign_by/route": "app/services/supabase/admin/retrieve_user_assign_by/route.js"
+}

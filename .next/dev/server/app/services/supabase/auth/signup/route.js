@@ -1,0 +1,10 @@
+var R=require("../../../../../chunks/[turbopack]_runtime.js")("server/app/services/supabase/auth/signup/route.js")
+R.c("server/chunks/dab56_next_efa39922._.js")
+R.c("server/chunks/7d586_@supabase_realtime-js_dist_module_db57aa86._.js")
+R.c("server/chunks/066d7_@supabase_storage-js_dist_module_9eb0960b._.js")
+R.c("server/chunks/e8582_@supabase_auth-js_dist_module_bee81e54._.js")
+R.c("server/chunks/431ec__pnpm_c6f44f95._.js")
+R.c("server/chunks/[root-of-the-server]__7000d903._.js")
+R.c("server/chunks/d3020__next-internal_server_app_services_supabase_auth_signup_route_actions_3a25420e.js")
+R.m("[project]/mock-board-project/node_modules/.pnpm/next@16.0.7_react-dom@19.1.0_react@19.1.0__react@19.1.0/node_modules/next/dist/esm/build/templates/app-route.js { INNER_APP_ROUTE => \"[project]/mock-board-project/src/app/services/supabase/auth/signup/route.js [app-route] (ecmascript)\" } [app-route] (ecmascript)")
+module.exports=R.m("[project]/mock-board-project/node_modules/.pnpm/next@16.0.7_react-dom@19.1.0_react@19.1.0__react@19.1.0/node_modules/next/dist/esm/build/templates/app-route.js { INNER_APP_ROUTE => \"[project]/mock-board-project/src/app/services/supabase/auth/signup/route.js [app-route] (ecmascript)\" } [app-route] (ecmascript)").exports

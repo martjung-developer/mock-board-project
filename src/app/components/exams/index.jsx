@@ -44,7 +44,8 @@ export default function AvailableExams({ email }) {
 
   const exams = [
     
-    { title: "Librarian Licensure Examination (LLE)" },
+    { title: "Librarian Licensure Examination (LLE)", link: "/part_exam" },
+    { title: "Librarian Licensure Examination (LLE) 2", link: "/" },
     
   ];
 
@@ -176,7 +177,7 @@ However, once you click “Submit”, you will not be able to return to the exam
                   <p>Click to begin review</p>
                   <button
                     className={styles.beginBtn}
-                    onClick={() => router.push('/part_exam')}
+                    onClick={() => router.push(exam.link)}
                     aria-label={`Begin review for ${exam.title}`}
                   >
                     Begin Review

@@ -1,0 +1,3 @@
+{
+  "/services/supabase/admin/retrieve_all_user_student/route": "app/services/supabase/admin/retrieve_all_user_student/route.js"
+}

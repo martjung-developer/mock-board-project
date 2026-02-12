@@ -1,0 +1,3 @@
+{
+  "/services/supabase/admin/exam_result/route": "app/services/supabase/admin/exam_result/route.js"
+}

@@ -1,0 +1,3 @@
+{
+  "/services/supabase/user/update_score/route": "app/services/supabase/user/update_score/route.js"
+}

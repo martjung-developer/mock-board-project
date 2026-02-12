@@ -1,0 +1,3 @@
+{
+  "/services/supabase/storage/delete/route": "app/services/supabase/storage/delete/route.js"
+}

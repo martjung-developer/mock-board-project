@@ -7,16 +7,18 @@ import { useRouter } from 'next/navigation';
 export default function ManageUsersPage() {
 
   const router = useRouter();
-  const [email, setEmail] = useState();
+  const [email, setEmail] = useState(null);
 
-    useEffect(() => {
-          async function check() {
-              const response = await Fetch_to("/services/jwt/verify");
-              if (!response.success) return router.push("/");
-              setEmail(response.data.message.data[0].email);
-          }
-          check();
-      }, []);
+  useEffect(() => {
+    async function check() {
+      const response = await Fetch_to("/services/jwt/verify");
+      if (!response.success) return router.push("/");
+      setEmail(response.data.message.data[0].email);
+    }
+    check();
+  }, []);
+
+  if (!email) return null; 
 
   return <Manage_users email={email} />;
 }

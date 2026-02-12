@@ -1,3 +1,5 @@
+// src/app/(pages)/add_examinee/page.jsx
+
 'use client';
 import { Add_examinee } from '../../components/';
 import { useState, useEffect } from 'react';
@@ -16,6 +18,8 @@ export default function Add_examineePage() {
           }
           check();
       }, []);
+
+      if (!email) return null;
 
   return <Add_examinee email={email} />;
 }

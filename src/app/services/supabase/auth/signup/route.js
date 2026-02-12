@@ -1,10 +1,11 @@
+// mock-board-project/src/app/services/supabase/auth/signup/route.js
 import { NextResponse } from "next/server";
 import { supabaseServer } from "../../../../lib/supabase_server.js";
 import bcrypt from "bcrypt";
 
 export async function POST(req) {
 
-    try {
+    try {   
 
         const { name, email, password, c_password, role } = await req.json();
 
@@ -27,7 +28,7 @@ export async function POST(req) {
 
         const { data, error } = await supabaseServer
         .from("auth")
-        .insert([{ email: cleanEmail, password: String(hashed), name: cleanName, role: role }]);
+        .insert([{ name: cleanName, email: cleanEmail, password: String(hashed), name: cleanName, role: role }]);
 
         if (error) {
             console.error("Supabase Query Error: ", error);

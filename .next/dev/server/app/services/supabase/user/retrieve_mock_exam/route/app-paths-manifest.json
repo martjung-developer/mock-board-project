@@ -1,0 +1,3 @@
+{
+  "/services/supabase/user/retrieve_mock_exam/route": "app/services/supabase/user/retrieve_mock_exam/route.js"
+}

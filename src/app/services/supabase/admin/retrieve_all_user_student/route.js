@@ -1,3 +1,5 @@
+// src/app/services/supabase/admin/retrieve_all_user_student/route.js
+
 import { NextResponse } from "next/server";
 import { supabaseServer } from "../../../../lib/supabase_server";
 

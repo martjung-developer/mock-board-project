@@ -1,3 +1,5 @@
+//src/app/services/supabase/admin/assigned/route.js
+
 import { NextResponse } from "next/server";
 import { supabaseServer } from "../../../../lib/supabase_server";
 
@@ -7,11 +9,11 @@ export async function POST(req) {
 
     if(!id || !email) return NextResponse.json({ success: false, error: "Some requirements is conflicted" }, { status: 409 });
 
-    const que = "queu";
+    const pending = "pending";
 
     const { error } = await supabaseServer
     .from("auth")
-    .update({ assign_by: email, status: que })
+    .update({ assign_by: email, status: pending })
     .eq("id", id);
 
     if (error) {

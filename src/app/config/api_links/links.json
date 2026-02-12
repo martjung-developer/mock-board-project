@@ -1,4 +1,4 @@
-{
+    {
     "auth" : {
         "signup" : "/services/supabase/auth/signup",
         "signin" : "/services/supabase/auth/signin",

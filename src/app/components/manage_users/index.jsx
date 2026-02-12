@@ -127,8 +127,8 @@ export default function ManageUsers({ email }) {
                       <span> {user.name} </span>
                     </td>
                     <td><span className={styles.published} style={{ 
-                      backgroundColor: user.status === "queu" || "underprocess" ? "#fef3c7" : "",
-                      color: user.status === "queu" || "underprocess" ? "#92400e" : ""
+                      backgroundColor: user.status === "pending" || "underprocess" ? "#fef3c7" : "",
+                      color: user.status === "pending" || "underprocess" ? "#92400e" : ""
                     }} 
                       > {user.status} </span></td>
 
